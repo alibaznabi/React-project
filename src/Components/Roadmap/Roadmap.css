@@ -1,0 +1,55 @@
+.roadmapsec {
+    background-color: black;
+    width: 100%;
+    /* height: 100vh; */
+}
+
+.roadmapheading {
+    margin-left: 6%;
+}
+
+.roadmapBorder {
+    width: 2px;
+    background-color:  rgb(17, 100, 163);
+    height: 1030px;
+    position: absolute;
+    left: 15%;
+}
+
+.roadmapMid {
+    position: absolute;
+    left: 14.2%;
+    background-color:black;
+    border-radius: 50%;
+    border: 1px solid rgb(17, 100, 163);
+    width: 20px;
+    height: 20px;
+    /* background-color: whitesmoke; */
+    position: absolute;
+}
+
+@media only screen and (max-width: 1000px) {
+    .roadmapBorder {
+        width: 2px;
+        background-color: rgb(17, 100, 163);
+        height: 1738px;
+        position: absolute;
+        left: 6%;
+    }
+    .roadmapMid {
+        position: absolute;
+    left: 4%;
+    background-color: black;
+    border-radius: 50%;
+    border: 1px solid rgb(17, 100, 163);
+    width: 20px;
+    height: 20px;
+    /* background-color: whitesmoke; */
+    position: absolute;
+    }
+    }
+
+
+    /* ///////////////roadmap ends here////// */
+
+/* /////////////Distrubtiion ends here//////// */

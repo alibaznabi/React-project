@@ -1,0 +1,44 @@
+.Faqssec {
+background-color: black;
+width: 100%;
+color: black;
+}
+
+.typo1 {
+    color: white;
+    background-color: black;
+}
+
+.mmmm {
+    color: aliceblue;
+    background-color: black;
+}
+.typography {
+    font-weight: 1rem;
+}
+
+/* /////////////////////////////faqs ends here////////////////////////// */
+
+.coins{
+    display: flex;
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 50%;
+    justify-content: space-around;
+}
+.coins img {
+    border-radius: 90%;
+    height: 50px;
+}
+
+.pressabout img{
+margin-left: 5%;
+width: 90%;
+}
+
+/* @media only screen and (max-width: 1000px) {
+    .pressabout {
+        flex-wrap: wrap;
+    }
+    
+} */
